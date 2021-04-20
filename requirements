@@ -1,0 +1,9 @@
+1. users are preregistered
+2. questions are there in QB
+3. new questions can be added.
+4. Diff level (future)
+5. multiple users can attempt the quiz.
+6. for a user return the score in response
+7. for a tester return a list of scores for multiple users.
+8. random questions are to be picked from QB in a quiz.
+
